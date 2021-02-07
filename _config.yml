@@ -6,3 +6,6 @@ theme: jekyll-theme-cayman
 github:
   zip_url: https://vigilanciacovid.github.io/clinica
   tar_url: https://vigilanciacovid.github.io/fatoresderisco
+  tar2_url: https://vigilanciacovid.github.io/laboratorio
+  tar3_url: https://vigilanciacovid.github.io/sobre
+  
