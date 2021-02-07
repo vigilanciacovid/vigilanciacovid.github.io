@@ -2,3 +2,7 @@ title: Vigilância COVID-19
 show_downloads: true
 google_analytics:
 theme: jekyll-theme-cayman
+
+github:
+  zip_url: https://vigilanciacovid.github.io/clinica
+  tar_url: https://vigilanciacovid.github.io/fatoresderisco
