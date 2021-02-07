@@ -1,14 +1,12 @@
 theme: jekyll-theme-cayman
 title: Vigilância COVID-19
 name: Vigilância COVID-19
-links:
-  - title: Home
-    url: /
-  - title: About Me
-    url: /about
-  - title: Archive
-    url: /archive
-  - title: Contact
-    url: /contact
-  - title: Categories
-    url: /categories
+toc:
+  - title: Group 1
+    subfolderitems:
+      - page: Thing 1
+        url: /thing1.html
+      - page: Thing 2
+        url: /thing2.html
+      - page: Thing 3
+        url: /thing3.html
