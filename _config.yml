@@ -1,33 +1,3 @@
 theme: jekyll-theme-cayman
 title: Vigilância COVID-19
 name: Vigilância COVID-19
-# Navigation menu
-links:
-  - title: Home
-    url: /
-  - title: About Me
-    url: /about
-  - title: Archive
-    url: /archive
-  - title: Contact
-    url: /contact
-  - title: Categories
-    url: /categories
-
-# Build settings
-
-markdown: kramdown
-highlighter: rouge
-sitemap: true # Generate sitemap.xml
-feed:
-  path: atom.xml
-sass:
-  style: compressed
-  
-## For more settings: https://jekyllrb.com/docs/configuration/
-
-# exclude files if no need build
-exclude: ['package.json', 'node_modules', 'README.md', 'LICENSE']
-
-# Gems
-gems: [jekyll-paginate, jekyll-sitemap, jekyll-feed]
