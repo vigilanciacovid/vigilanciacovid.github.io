@@ -2,7 +2,7 @@
 
 Este site apresenta a documentação de uma calculadora que classifica se uma determinada pessoa tem risco baixo, médio ou alto de desenvolver formas graves de Covid-19.
 
-Para acessar a calculadora: https://vigilanciacovid.shinyapps.io/triagem_covid19/
+Para acessar a calculadora: [https://vigilanciacovid.shinyapps.io/triagem_covid19/] (https://vigilanciacovid.shinyapps.io/triagem_covid19/)
 
 Trata-se de uma estimativa, baseada em análise da literatura científica disponível sobre o tema, de caráter educativo e experimental. Tem como finalidade apoiar serviços de saúde e autoridades sanitárias interessadas em aprimorar seu fluxo assistencial para o atendimento das manifestações iniciais da Covid-19.
 
