@@ -1,3 +1,5 @@
+> [Voltar para Home](https://vigilanciacovid.github.io)
+
 # Sobre
 
 ### Coordenação da Pesquisa
@@ -32,4 +34,5 @@ Thiago Cerqueira Silva - [https://github.com/csthiago](https://github.com/csthia
 
 Vinícius de Araújo Oliveira - [https://github.com/viniciusfiocruz](https://github.com/viniciusfiocruz)
 
-[Voltar para Home](https://vigilanciacovid.github.io)
+
+> [Voltar para Home](https://vigilanciacovid.github.io)
